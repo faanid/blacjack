@@ -21,4 +21,9 @@ button {
 color:#016f32;
 width:150px;
 background-color: goldenrod;
+padding-bottom:5px;
+padding-top:5px;
+font-weight:bold;
+border:none;
+border-radius: 2px;
 }
